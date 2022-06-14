@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Killmonger007
+- 👋 Hi, I’m Pankaj Meharchandani you may or may not know me as @Killmonger007
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning with my experiences 
 - 💞️ I’m looking to collaborate with anyone who wants help
