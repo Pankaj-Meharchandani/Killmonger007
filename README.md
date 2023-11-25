@@ -1,4 +1,4 @@
-Hi, I’m Pankaj Meharchandani, a passionate developer and a lifelong learner. 👋
+Hi, I’m Pankaj Meharchandani, a passionate designer, developer and a lifelong learner. 👋
 
 I love to explore new technologies and create innovative solutions for real-world problems. 💻
 
