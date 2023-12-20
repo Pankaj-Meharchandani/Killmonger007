@@ -4,7 +4,7 @@ I love to explore new technologies and create innovative solutions for real-worl
 
 Some of the technologies I enjoy working with anything related to Android. 🚀
 
-I’m also interested in Ui/Ux designing. You can view & follow my designs on https://www.figma.com/@Killmonger007. 👤
+I’m also interested in Ui/Ux designing. You can view & follow my designs on https://www.figma.com/@pankaj_m. 👤
 
 You can find some of my projects and contributions on my GitHub profile. 🔥
 
