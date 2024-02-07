@@ -1,18 +1,31 @@
-Hi, I’m Pankaj Meharchandani, a passionate designer, developer and a lifelong learner. 👋
+# Hi, I’m Pankaj Meharchandani 👋
 
-I love to explore new technologies and create innovative solutions for real-world problems. 💻
+I'm a passionate designer, developer, and a lifelong learner.
 
-Some of the technologies I enjoy working with anything related to Android. 🚀
+## Portfolio & Social Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://pankajmeharchandani.myportfolio.com/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-meharchandani-2679b71b8/)[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@pankaj_m)[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Killmonger_007)[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pankajmeharch)
 
-I’m also interested in Ui/Ux designing. You can view & follow my designs on https://www.figma.com/@pankaj_m. 👤
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pankaj-Meharchandani)[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/pankajmeharchandani)[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pankajmeharchan1)
 
-You can find some of my projects and contributions on my GitHub profile. 🔥
+## Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![XML](https://img.shields.io/badge/XML-00ADD8?style=for-the-badge&logo=superuser&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Feel free to reach out to me if you have any questions, suggestions, or feedback. 📫
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-You can also follow me on Linkedin https://www.linkedin.com/in/pankaj-meharchandani-2679b71b8/ for more updates. 🐦
+## Machine Learning
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23d9ead3.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<!---
-Killmonger007/Killmonger007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Softwares
+![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83)![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+## Systems
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## Devices
+![ASUS](https://img.shields.io/badge/vivobook%20Flip_14-000080.svg?style=for-the-badge&logo=asus&logoColor=white)![AMD](https://img.shields.io/badge/Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+![Xiaomi Redmi 7](https://img.shields.io/badge/Redmi_7%20\(Onclite\)-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)![Samsung J7](https://img.shields.io/badge/Galaxy_J7%20\(elte\)-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)![Xiaomi POCO F1](https://img.shields.io/badge/POCO_F1%20\(beryllium\)-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
