@@ -7,25 +7,47 @@ I'm a passionate designer, developer, and a lifelong learner.
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pankaj-Meharchandani)[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/pankajmeharchandani)[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pankajmeharchan1)
 
-## Languages
+<details>
+  <summary>Languages</summary>
+  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![XML](https://img.shields.io/badge/XML-00ADD8?style=for-the-badge&logo=superuser&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</details>
 
-## Machine Learning
+<details>
+  <summary>Machine Learning</summary>
+
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23d9ead3.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Softwares
+</details>
+
+<details>
+  <summary>Softwares</summary>
+
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83)![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+</details>
 
-## Systems
+
+<details>
+  <summary>Systems</summary>
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Devices
+</details>
+
+
+<details>
+  <summary>Devices</summary>
+
+
 ![ASUS](https://img.shields.io/badge/vivobook%20Flip_14-000080.svg?style=for-the-badge&logo=asus&logoColor=white)![AMD](https://img.shields.io/badge/Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ![Xiaomi Redmi 7](https://img.shields.io/badge/Redmi_7%20\(Onclite\)-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)![Samsung J7](https://img.shields.io/badge/Galaxy_J7%20\(elte\)-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)![Xiaomi POCO F1](https://img.shields.io/badge/POCO_F1%20\(beryllium\)-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+
+</details>
