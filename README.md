@@ -1,6 +1,6 @@
-# Hi, I’m Pankaj Meharchandani 👋
+# Hi there, I'm Pankaj Meharchandani 👋
 
-I'm a passionate designer, developer, and a lifelong learner.
+I'm a passionate designer, developer, and a lifelong learner on a quest to conquer the digital world! 🦸‍♂️
 
 ## Portfolio & Social Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://pankajmeharchandani.myportfolio.com/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-meharchandani-2679b71b8/)[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@pankaj_m)[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Killmonger_007)[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pankajmeharch)
@@ -51,3 +51,5 @@ I'm a passionate designer, developer, and a lifelong learner.
 ![Xiaomi Redmi 7](https://img.shields.io/badge/Redmi_7%20\(Onclite\)-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)![Samsung J7](https://img.shields.io/badge/Galaxy_J7%20\(elte\)-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)![Xiaomi POCO F1](https://img.shields.io/badge/POCO_F1%20\(beryllium\)-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 
 </details>
+
+Are you ready to embark on a digital adventure with me? Let's connect and conquer the world wide web! 🚀
