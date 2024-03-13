@@ -56,4 +56,8 @@ I'm a passionate designer, developer, and a lifelong learner on a quest to conqu
 
 </details>
 
+## Fun Zone
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/0QdnExJm9vh1PG5irS8dXz?si=xJZWnCGbS9i46AMfNWJjjw%0A)
+
 Are you ready to embark on a digital adventure with me? Let's connect and conquer the world wide web! 🚀
