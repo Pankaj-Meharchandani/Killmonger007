@@ -11,7 +11,7 @@ I'm a passionate designer, developer, and a lifelong learner on a quest to conqu
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Meharchandani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=d6e7ff&bg_color=0,000000,130F40" alt="my Github Stats"/>-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Meharchandani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=d6e7fe&icon_color=0f1fa4&bg_color=45%2C000000%2C130F40" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Meharchandani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=D7E8FF&icon_color=0f1fa4&bg_color=45%2C000000%2C130F40" alt="my Github Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Pankaj-Meharchandani&theme=holi-theme&background=45%2C000000%2C130F40&stroke=130F40&ring=25489C&fire=0F1FA4&currStreakNum=d6e7ff&sideNums=d6e7ff" alt="GitHub Streak" />
 
@@ -55,4 +55,7 @@ I'm a passionate designer, developer, and a lifelong learner on a quest to conqu
 ## Fun Zone
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315ftxwqok3zerliguh2xnapb34q?si=A_0q9gQxRjapBwryjGPOnQ)
 
+<p>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
 Are you ready to embark on a digital adventure with me? Let's connect and conquer the world wide web! 🚀
